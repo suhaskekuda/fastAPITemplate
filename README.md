@@ -6,8 +6,8 @@ Getting started
 To make it easy for you to get started with application building here's a list of recommended next steps.
 
 ```
-git clone https://gitlab.com/suhas.kekuda/flaskTemplate.git
-cp -r pythontemplate <ProjectName>
+git clone https://github.com/suhaskekuda/fastAPITemplate.git
+cp -r fastAPITemplate <ProjectName>
 cd <ProjectName>
 rm -rf .git
 ```
